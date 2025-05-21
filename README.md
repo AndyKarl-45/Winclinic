@@ -1,2 +1,1 @@
-# Winclinic
-# Front-end-clinic
+# winclinic
